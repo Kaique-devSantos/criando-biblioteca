@@ -36,3 +36,7 @@ function trataErro(erro) {
 
 pegaArquivo('./arquivos/texto.md');
 pegaArquivo('./arquivos/');
+
+//\[[^[\]]*?\]
+
+//\(https?:\/\/[^\s?#.].[^\s]*\)
